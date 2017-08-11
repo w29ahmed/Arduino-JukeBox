@@ -24,6 +24,8 @@ I then also added a block of code to restart the program if the potentiometer ra
 
 Demonstration of the JukeBox in action: -insert youtube link here- 
 
+Note: JukeBox.ino is the main file and contains the setup() and loop() functions
+
 
 
 
