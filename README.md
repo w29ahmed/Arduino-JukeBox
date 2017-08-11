@@ -1,3 +1,5 @@
+# Arduino Jukebox 
+
 ## How it Works 
 A potentiometer is used to shift through the songs. 
 A button is used to play the song when it is pressed. 
